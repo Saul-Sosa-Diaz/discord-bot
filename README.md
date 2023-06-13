@@ -26,8 +26,7 @@ python3 -m pip install -U "discord.py[voice]"
 python3 pip install pynacl
 ```
 
-## Ejecución
-**El programa generará una instancia aleatoria por defecto. Si se quisiera cambiar habría que indicarle el parámetro -f**  
+## Ejecución 
 El fichero `main` está en la carpeta /src, para ejecutar el programa ejecute el siguiente programa:
 
 ```BASH
